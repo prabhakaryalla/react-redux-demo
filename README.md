@@ -21,10 +21,10 @@
 ### Interview Questions on Redux 
 ___
 
-- What is Redux ? (state management which solve the problem of prop linking)
-- How do you decide whether to choose Context API or Redux?
-- What is the redux store?
-- What are actions?
+- [What is Redux?](./docs/interview-questions.md#redux)
+- [How do you decide whether to choose Context API or Redux?](./docs/interview-questions.md#contextAPIOrRedux)
+- [What is the redux store?](./docs/interview-questions.md#3.-What-is-the-redux-store?)
+- [What are actions?](./docs/interview-questions.md#4.-What-are-actions?)
 - What are action creators?
 - What are reducers?
 - How the control flows between these different parts
