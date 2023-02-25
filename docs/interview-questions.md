@@ -21,7 +21,7 @@
 
 **React + Redux?**
 
-![React+Redux Image](./images/react-redux.png)
+![React+Redux Image](/docs/images/react-redux.png)
 
 
 **Do we really have a problem?**
@@ -33,7 +33,7 @@ useContext + useReducer ?
 Redux 1.0 - August 2015
 
 
-![React-Redux Image 2 Preview](./images/react-redux-2.png)
+![React-Redux Image 2 Preview](/docs/images/react-redux-2.png)
 
 <br />
 
@@ -81,11 +81,11 @@ Redux 1.0 - August 2015
 
 <br/>
 
-![React+Redux Image](./images/redux-flow.png)
+![React+Redux Image](/docs/images/redux-flow.png)
 
 <br />
 
-![React+Redux Image](./images/redux-flow-2.png)
+![React+Redux Image](/docs/images/redux-flow-2.png)
 
 <br />
 
@@ -98,6 +98,9 @@ Redux 1.0 - August 2015
 <br />
 
 ### **9. What do mapStateToProps and mapDispatchToProps actually do?**
+    
+**mapStateToProps**
+    
     It connects redux state to props of react component.
     It is just a simple function (no imported library) that simply returns a specified part of the current state.
 
@@ -109,7 +112,8 @@ Redux 1.0 - August 2015
 
 <br />
 
-### **10. Why do you dispatch an action to update the state and not update the store directly?**
+**mapDispatchToProps**
+
     It connects redux actions to react props.
     This function directs the dispatching or sending of an action by pointing it to an action creator
 
@@ -140,6 +144,12 @@ Redux 1.0 - August 2015
     The bindActionCreators() function accepts the action creator and the store’s dispatch function as arguments, and returns a dispatch function that uses the return value of the action creator as its arguments.
 
     export default connect(mapStateToProps, mapDispatchToProps)(MyComponent);
+
+<br />
+
+
+### **10. Why do you dispatch an action to update the state and not update the store directly?**
+    Dispatching actions in Redux is the fundamental method of updating a Redux store's state. Actions are used to store relevant information for the state, and they reach the store through the dispatch() method available on the store object
 
 <br />
 
