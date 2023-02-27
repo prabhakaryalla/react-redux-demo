@@ -21,9 +21,9 @@
 
 **React + Redux?**
 
-<img src="https://raw.githubusercontent.com/prabhakaryalla/react-redux-demo/docs/images/react-redux.png" alt="React + Redux" />
+<img src="https://github.com/prabhakaryalla/react-redux-demo/blob/main/docs/images/react-redux.png" alt="React + Redux" />
 
-![/docs/images/react-redux.png]([https://raw.githubusercontent.com/prabhakaryalla/react-redux-demo/docs/images/react-redux.png])
+![/docs/images/react-redux.png]([https://github.com/prabhakaryalla/react-redux-demo/blob/main/docs/images/react-redux.png])
 
 
 **Do we really have a problem?**
