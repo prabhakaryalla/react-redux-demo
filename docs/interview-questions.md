@@ -21,7 +21,7 @@
 
 **React + Redux?**
 
-<img src="https://github.com/prabhakaryalla/react-redux-demo/blob/main/docs/images/react-redux.png" alt="React + Redux" />
+<img src ="../docs/images/react-redux.png?raw=true" alt="React + Redux Preview" />
 
 ![/docs/images/react-redux.png]([https://github.com/prabhakaryalla/react-redux-demo/blob/main/docs/images/react-redux.png])
 
