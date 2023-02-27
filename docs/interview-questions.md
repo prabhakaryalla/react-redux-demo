@@ -21,7 +21,7 @@
 
 **React + Redux?**
 
-![/docs/images/react-redux.png]([https://github.com/prabhakaryalla/react-redux-demo/docs/images/react-redux.png])
+![/docs/images/react-redux.png]([https://raw.githubusercontent.com/prabhakaryalla/react-redux-demo/docs/images/react-redux.png])
 
 
 **Do we really have a problem?**
@@ -150,7 +150,8 @@ Redux 1.0 - August 2015
 
 ### **10. Why do you dispatch an action to update the state and not update the store directly?**
 
-    Dispatching actions in Redux is the fundamental method of updating a Redux store's state. Actions are used to store relevant information for the state, and they reach the store through the dispatch() method available on the store object
+    Dispatching actions in Redux is the fundamental method of updating a Redux store's state. 
+    Actions are used to store relevant information for the state, and they reach the store through the dispatch() method available on the store object
 
 <br />
 
