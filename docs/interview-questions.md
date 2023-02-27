@@ -21,7 +21,7 @@
 
 **React + Redux?**
 
-![React+Redux Image](/docs/images/react-redux.png)
+![/docs/images/react-redux.png](https://github.com/prabhakaryalla/react-redux-demo/blob/eeb6b7d2201b26453ad85ce66c70efe0629acf98/docs/images/react-redux.png)
 
 
 **Do we really have a problem?**
